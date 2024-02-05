@@ -5,3 +5,6 @@ streamlit.text(' 🥣 dosa')
 streamlit.text('🥗 chutney')
 streamlit.text('🐔 chicken fries')
 streamlit.text('🥑🍞 Avacado toast')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
